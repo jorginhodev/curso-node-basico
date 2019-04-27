@@ -1,0 +1,23 @@
+{
+  "name": "curso-node-basico",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS Básico - Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorginhodev/curso-node-basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorginhodev/curso-node-basico/issues"
+  },
+  "homepage": "https://github.com/jorginhodev/curso-node-basico#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
