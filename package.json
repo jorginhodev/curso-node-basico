@@ -20,7 +20,8 @@
   "homepage": "https://github.com/jorginhodev/curso-node-basico#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mongoose": "^5.5.4"
+    "mongoose": "^5.5.4",
+    "require-dir": "^1.2.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.11"
